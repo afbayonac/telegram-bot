@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "hapi": "^16.1.1",
     "node-telegram-bot-api": "^0.27.1"
   }
