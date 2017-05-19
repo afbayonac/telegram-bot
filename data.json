@@ -1,0 +1,803 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB5wAAAGOkrugZxnfaAOaz9aEiJFylJDJ9Oi5PVI0IApN32-FFUq4Y4UMq79hPDpy17XcwRI70VG0BOI6CiuS5wjWcw3HiLoAQjCWh3oAc1YORfCaSBONvDMFchVQzpdc-O2aQH7hj6dxSrIWh3WL3u__c3zUJ-cMzbdmvMYFdClHHytqlko5YHB507Z6QkMQvTObsU7DEMBtNLuq9mBc_QKN_PDRNY2Iv_YxVJ7gTu9qhxJWYy_XHftSFUXwQr90N2ij7bTZh5Xj-9lQyYzHZrtqkCwOzqCS1ucwL9vMAhO08CuOw_eSASYtWw6-TCgAZyNrb7hIQVLA752ZwTIQYKW-RxZy8QBoUcefrPZpIaNJUaIWBIFk9_bgfT54",
+   "results" : [
+      {
+         "formatted_address" : "Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.103680600000001,
+               "lng" : -73.121471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.105050730291501,
+                  "lng" : -73.12002201970849
+               },
+               "southwest" : {
+                  "lat" : 7.102352769708498,
+                  "lng" : -73.12271998029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "de35382fe43f53133e10b41fdca107feffd7366e",
+         "name" : "Parque de las Cigarras",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116870580360028821438/photos\"\u003eEnrique Medina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAK1goFbZL2favrjQdxY1UGV4e3_8XWxPbVvxqGLcqzV_4fscVeERAZnRiFczbOZxR-Ed1ScyeVbm9HhkvG1lsjVQewgXlfgTtisTCWJ_qGBNP4EmLSLGIqXsdygochc0cEhA8yhjnF8AxGbru6mAu44nzGhQmGXhaChEkY9S8wxak4tWDc8Y6MA",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJt3MYRMY_aI4RP7cvOVXgkRY",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAjsw7Uunhpjxkk6v-rrXlD67URgOhkQBSFTgyJPVzW_owPXD9774KaPgtjXbAyVeRRZkiUndJraLJxKnH_ztHG6An_asACB8LIaEbgtLMMioY8_L6YSG4BHPK6ceCdvJ8EhC0s3KNAkpi8W_PQ7NqVo5vGhQ6V6V577VkJufM9SeEspL4rgHhKg",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "a 19-109,, Cl. 36 #191, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.119642499999999,
+               "lng" : -73.12285989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.120874030291501,
+                  "lng" : -73.12146146970849
+               },
+               "southwest" : {
+                  "lat" : 7.118176069708497,
+                  "lng" : -73.12415943029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "b7c284151d34de9388fb2d9084f8527fcf9da15f",
+         "name" : "Parque Santander",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101197160381841107264/photos\"\u003eJavier Carrillo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAApgBn7zBBwR4cIX69lW17PLtsO4gVVTxC51gZSSnUBECPAM9CjyuQQIThhsAwrSi16IXdo0yK44WCQPbmS8i6Y18DusLWwIGD4w_wWLVIEE49AefAIYImPghLApaFE8KkEhBmzJNGPtkDkl95z0I3pd5UGhTH2T3kuTIzsMjLL8wMLWQSR6P62Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJmShyIdg_aI4RqA8D49P_uDc",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAGUMEzfh-N4I74ZeAGwFATfPy--8_RADFf7Ilss7wmwQAlaA6WG4qgaQ7ux6XCtqmWGRkLwXYZqAoYkyEoqDEhivcSyZlA9r0ckWGIrngguUlExTjokv76nVrFlyhPV3LEhAAS7ILzwU-eTn0wKsGM2PZGhQZTv7m3OMoIFL4P_1-BfEVVihCjw",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 33 #45, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1185493,
+               "lng" : -73.1107123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.119846680291502,
+                  "lng" : -73.10963261970851
+               },
+               "southwest" : {
+                  "lat" : 7.117148719708497,
+                  "lng" : -73.11233058029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "fa793ebb224f91e044ec05ffbdb5fc3e826eb1ec",
+         "name" : "Parque San Pío",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116097900152285968336/photos\"\u003eRemco Raad de\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAPFrJ7nFAde-QSYWVT8BWbY2rghEzhdmyiVAKYRcXZhfIt3ydDuEdPiAmgTk5Mbczg9vb7UMIn_S6OMKL6JnrNRigN7fxhwVBBreAbPvu_cPSY3NILvlu6oBI3C_2D0ZmEhBiyB4m0CrIp5fX84lz0374GhRc0cVgOvpYnnJ0h04LZ-uWFyBa7A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJvz75ZOA_aI4R-l98xHLwQrw",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA-Xq_Sh5DWz73j6_UKJ3htl8OppZKdtijKsyRsXnX99YsWGVMZ8oTEvFxGkB9Fnz36RrVgCYlFbCW41HhTS5tJMYvMPtMzEl0Ho0sRvJGaW_MSvMaRkZWEL_C1noYlZ9gEhDSP_Du5BuUK4k6yoD6rNoBGhQRXfg5H5-jzVkZGEjJzszvgUQ__g",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Diagonal 32 #30A-51, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1305213,
+               "lng" : -73.10969620000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.131510980291502,
+                  "lng" : -73.10878931970849
+               },
+               "southwest" : {
+                  "lat" : 7.128813019708498,
+                  "lng" : -73.1114872802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "4bfa6557215d75119772da07703e1f270e7561a6",
+         "name" : "Parque del Agua",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107418162891282160066/photos\"\u003eCarlos Andres Bautista Caicedo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAARBi7RfPciLJDLniAw-f1Ase_R0GSk6HU-i05ToGWu2-ct3BLqLaoRwM5QkvjU_4kUmnutGm2bTs98I-eIv8fOjBM7uklDM3b-2iOdcYaqmzWkIK-hCUumrmVlUv-0q8pEhDz-yZjgRE6TRkU42K4q2-qGhTYJJP8pakuwJq_qcLVsbILUdaeQA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8YJpN10VaI4RlntyRhW8CaQ",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA8fHWGF5ceLGCXFb4iD_xAkF0lUfRdF9tN8u9khoGq27wxHR7Q7b1CsC9ItcogZFoOAdONtrm39UtMYEU3YQae4MpQ8-Y8s1IssZ9UGLAwOlzchB36EylbukhHh9Q1MifEhDaZspOWrri1HGXU6KbSL97GhQvQL7llUMpRk3BloNC3mTEXI8zgA",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cl. 41, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.123708599999999,
+               "lng" : -73.10791929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.125151430291502,
+                  "lng" : -73.10674781970849
+               },
+               "southwest" : {
+                  "lat" : 7.122453469708497,
+                  "lng" : -73.10944578029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "fad6ecfb09d456da2cd5cfa32035abd0ef92c385",
+         "name" : "Parque Los Leones",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116437146720955700303/photos\"\u003eDog&#39;s House\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAEne0IU5FCLEGWt_r6nuV5JdtbRew03yH4VHtfaROIOqPjxc752TDJfIQvH39A6xmlO2T1rPRBAiGPx2wQQLsZRB78GnmYl9jleu7I6ApKWuJKMXhydl5V9vuTq_dOphkEhCFyQcvCTQIneVekNID0cHfGhT7WPKmBGcPMG-PL_K3GtnytuDmhQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJcVYa-l4VaI4RYaRZ9A1XlZs",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAM-7S7TeClBWkoOoYJLRjLQ9bTH_ZQgco2qIW7XtoLdqj3O2CwyZ-3KZCe7gq-6oLI1GwlRWX6atkEssbTug9AiK_S07wCCozi9gdIYTwzKElmze32_hIKrklkTGUZpqyEhC-DZHPysSgDch7c_owbN-cGhQrZES-bJ0EBeaumDlpSOGEL1RY4A",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cl. 33 #86, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1218808,
+               "lng" : -73.1246084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.123199430291502,
+                  "lng" : -73.1232888697085
+               },
+               "southwest" : {
+                  "lat" : 7.120501469708497,
+                  "lng" : -73.12598683029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "2e9707fd3f4fa225605ce420f2652dce6ef2de3d",
+         "name" : "Parque Centenario",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105934228470735278721/photos\"\u003eCarlos E. Blodek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAA_03NJ_mCRyZOI-MFWl6zJ2ba1390woDSTPGBfSsuft5Dgp6uSOpbJWay_uGRDZdKOIP5YGz3LPciphcNTbdsYZjrS4SHWyplPitxuemdKq4VylV4ei6x-WnEx4ntauLMEhBpGLpj3Otl3uLURXNu0czbGhR9S1or1nnaDospIdJXzO82HaUzmQ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJfwmtQn0VaI4RFOPAt9xrO8w",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAz9rkGz7i6pNXhnSCptjNtAt5xMw8KVghFK_ffD9jeArub7UcJa7pdV1pbLG8VYSEGiSUwPEU2b3de2krdjp-cHO3kZpj3rch-A36sVcEzH6KNfK8G4mozZ9WAz_6uV1iEhCUOTIPkLvcpJAP6ak9FzLuGhTE2pqL9Fk2dEZNzxcrjn6x2J0JAg",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Carrera 11 Calle 35, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1169482,
+               "lng" : -73.13007379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.118266980291502,
+                  "lng" : -73.12871386970849
+               },
+               "southwest" : {
+                  "lat" : 7.115569019708498,
+                  "lng" : -73.1314118302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "6da0881fe28624101d530156d837a7afe30b7892",
+         "name" : "Parque García Rovira",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113093831846568010805/photos\"\u003eJulio Ayala\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAGFNpU8ecFV6uxywwvd7JVYvjOrPABSVwp_nswRR6qkohGnqjY9Km2ZJfeNpg0KRXssBNUdZOA3deyez-ljqYVN6M6yP96O1rPId7phUDsYcPRZHyyOOb1drZ7k8gTgPTEhAHmv2owxusIJIIzUCeCyscGhRy5lTF_cpDfqbszIAl3wOwVmsyvQ",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJQSjnEdQ_aI4RPFuKmMrBkjc",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAJETDOeF908mGIEGLCEHnGn_D1RbRq5oewwzVia2YOZQ4__-6DqM4Gj9ZWzkFjTyc61xp3S6Ojoo4pZ7FA1TFYBeYXi_9Ye8OzOHsEHv8Ech9oqAeLL1k_XUBdst_S61tEhA_GEfWgHkyQDCnup5JZIIbGhTHOwe8t0ZP6ypQ60edXNYlbUZXVQ",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 22, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1225858,
+               "lng" : -73.1221491
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.123849730291502,
+                  "lng" : -73.1208292197085
+               },
+               "southwest" : {
+                  "lat" : 7.121151769708497,
+                  "lng" : -73.1235271802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "13fb72efcfc3a62ded0b20892a8f582be7f3abcb",
+         "name" : "Parque Antonia Santos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117835696205811707830/photos\"\u003eEA CR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAALQsZay8uQku_IDyvWnvOB0_bLxhiRZ7Hw56pMceaSWZoqxyIRtcrhNNBv-mES_XLvggWb_GFEK32YJOqPY7CfDu5LmKsseniVEo7a6Xq5CrSBz0qn92v4kN5WD30FAO_EhCBtqi63Misg6k9AhCOTt_QGhREUQrgnHPxvZILHj_5Eem04exCGQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJNU08x2IVaI4RYqMRDzSH6Vk",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAYIAKpi-HuiO0i--ks5mQaPil7wwwEVeoADQ9yjDvDvbyfY3RlmyhI1kvcT6CSYfiNPslu-vbbJsu5TLnc5Z1qRr-UkqlDi6CkEHVIq2bQ9WgDnwa7ejA65cLnl8IRt5zEhC-g6KmEOaFADkqOiRkiw2fGhSf4TwAOR6xE6Yd27ss5g2sz5h-mw",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Calle 40 #3043, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1216845,
+               "lng" : -73.1150792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.123116680291502,
+                  "lng" : -73.11385681970849
+               },
+               "southwest" : {
+                  "lat" : 7.120418719708498,
+                  "lng" : -73.11655478029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "de169c5038565fc4ecbae4608f26a712683f32bf",
+         "name" : "Parque Mejoras Públicas",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109544997695434187177/photos\"\u003eicapp4892\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAQ3kzFpqBvaqnj0NyHnM9t88feC7-3_y01piNgMVaMb3Ns094exM_iJXiKpgBqxVRLnNrgq5eeRbxaoCIRV6ATNoxdsA4nNEBaeSWWTWT3Paf5LUculEOA7GTjVjbedMJEhAouMD_x_tkdDTSS2bW2XLhGhTmjaFcSHsrm_CulM_U7Q-pPNADDg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJne9TzmEVaI4RpBVxFIxufIc",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAIlRngGV3ug_oqA2NiTVASwwYHLr07ob5uWMP-ZXqP3s-i9O56WcFKL-JbjC7vZ0ns68365HRdg0UjdsAX4kYPurhqEPChQ7AEGyKoQUk_GiDw_dOEVWv4PNT71u3nSMWEhC5WyEcjNpOSeOIQ1-BFhHjGhTJ7uYLJ8XevnrKReHd-uqU1PzY_w",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 55 #902, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.097436600000001,
+               "lng" : -73.0982343
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.098769680291503,
+                  "lng" : -73.09679941970849
+               },
+               "southwest" : {
+                  "lat" : 7.096071719708498,
+                  "lng" : -73.0994973802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e423a82ce872a4da9659b0e48d305bdd3c0327e0",
+         "name" : "Parque de Las Mojarras",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105611509640134632754/photos\"\u003ejorgeluis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAJB_IJftj_VHyQYE8v4l-Zavdll6C8zWM1fgZ7iXbTsU7hNavEs01Xoos1K91hgHrkgmoYwZCml43tNURebGyc7IRTe_OiVegGD-EZ46TS96dfeZmeHsmmz3fbkGieL25EhA7oN-LzVvaGDQZ2DzOz8BsGhRRtt9b1aAwnPpQ957eqLCJSNBzEg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJo7OzaY0_aI4RekAt-0RNmQU",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAT9qO3ygmOy05doR6TKpLnaeSh-W2XdlC5lDXfke6GJoKE7VGO3T6Wtdsi5lKTMiAZPTRqccBbATgH_Lir-kciBUaUicHh_qfoKWoJcxw0g0Ko3ApNrfk-JLUEteZVerMEhDCQIIRGP57WLh6oWWH3WHxGhR0W90LXwdwmhMVcc4zIz-HSIZSGg",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.107719999999999,
+               "lng" : -73.10736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.109068980291501,
+                  "lng" : -73.10601101970849
+               },
+               "southwest" : {
+                  "lat" : 7.106371019708496,
+                  "lng" : -73.10870898029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "eb0b81d93bf1a130f20b73647bc05c3f28c5a80f",
+         "name" : "Parque Ecológico La Flora",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112292169601481848334/photos\"\u003eLudwing Yesid Banguero Jaimes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAATbQ_GNf4_mxvp5PEab_TbEeG0TXM-M_wF36pRCdV58lGU2V1XjISqC2OwAe6Da5LQpJ6wSzET9cvsf9AOKjLCPrxYRKwPtsKPMpvy_k6HaEJN7qFUto6ulSf3Jwlk-0aEhDPxM8r8Y9Xf9IRwk57bntoGhTuzkdmzEm4VqNWHJVhjw50Pl6A1Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ2XY64ug_aI4R22oMNj9AEjE",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA3G6-KUko2OQFr5mtvH1FR6yK-rlKybRshlo1oPGRD34hgoIb70GKtas08sOcXRvZBLkBR0fyzK37LTCBw8rHXh_J48jA40Y6Fd-rNX0_HVFx0UPbCYOpv93fJMMt0LFNEhB_Ha4HNnEB8PiFDwt3swc6GhTGGZBvAaWKsfoXdOt__sxu8X4e0A",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 29 #44-14, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1195396,
+               "lng" : -73.11248429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.120790230291502,
+                  "lng" : -73.11122386970848
+               },
+               "southwest" : {
+                  "lat" : 7.118092269708497,
+                  "lng" : -73.1139218302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "25ef79fe07edca1ea720d45abb33a509703700e5",
+         "name" : "Parque Las Palmas",
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115050530390914086451/photos\"\u003eJosé luis Martínez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAQNL39GohFsnOlcI_vBdoI_54KRdDWbrr-dSKpyEGhD9ehc35CY4UntyU_S1adzkcVz5Sp4EMT_GCAVzxGNtoXhN7d2La6ZJ5OL7VIBqV4d2Ye9FNCItiXOkkzTIz9XlVEhBugdrw1DbQpTGF1vMuzwdXGhQunb93SSnBnGy2-Mja4_xThK-eFQ",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJd26C6t8_aI4R8Ab8sh5YoFE",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAMyldL7ZmhJOreDZEbcb-Jef9TYKrcazlX6Ef-cW1Yzrwqx9MwY5OY0POOzw9J88rWLbwEBTJdRpeim-0HpgXOmNGRMN2Sl4Wy8wWjfINhnoyVxbgIDUnehrbBa3FSX8fEhC7_SCUC_DwyaCHijKeuiXIGhTPtCHuPTYhuMaP3C4Aq4I_z4fg7Q",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 18 #20-22, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.131151299999999,
+               "lng" : -73.12497069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.132484930291501,
+                  "lng" : -73.1236812197085
+               },
+               "southwest" : {
+                  "lat" : 7.129786969708497,
+                  "lng" : -73.12637918029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f1e40a429ec67ae985b28304b1d4e50a467a3968",
+         "name" : "Parque San Francisco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109930237723653717246/photos\"\u003eJota Velasquez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAvtj7tIIJ1hD6ActUqCJ57gbAK4gGpDKtZi8F-OyscuMoEK_LVW_439zs8XI-WdTieak5CI1XNn2TyTmEOeDX2-U19Hkv6cjwV5DAkzKhWckoMtFk3q4ML1oXKcnPizRTEhAAW3WMQP6G2FsPw3aEpdJ3GhQzIjmp6MU0XmuvViUZX5-LQs14jQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJX4zem3oVaI4RO0ZXmDGXrns",
+         "rating" : 4,
+         "reference" : "CmRRAAAAU212jd1GmyVVwPDXCLp7PRCLUJEZ-BWsbnF23YHW4M5w9s0GbiPnAsd-8MqIR3AbfCNdebV8B59AWZBaDEs89XLNZc7NipeI2IbuVZENZmvc97dmFixt1v2F5t6RHUejEhAvo0BUNIzG-6yglT4BdcAyGhTPOAbPe2-RrvwEqiveaIiLcMY64g",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cl. 32, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.125203699999999,
+               "lng" : -73.1191015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.126273030291502,
+                  "lng" : -73.11770770000001
+               },
+               "southwest" : {
+                  "lat" : 7.123575069708497,
+                  "lng" : -73.1204249
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "aa25f7b20f6844ac22f1faf554a3bb49f59c1251",
+         "name" : "Parque De Los Niños",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106332104784023801910/photos\"\u003eMauricio Rey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAiRwAvduFcY7yTC6zaflk3k4rca-Imusi-fgSpX9bDBCHclK3jH-_CzESxuRo8CTkxLTJDoA1EnzVxXT9uZPUeORz0IFFxtkDfz_1BwahT-LWVpF9-zUgxpRsGW9quoNEEhAPjOb4NYdXfiZyvD6zzk6MGhQu28DGDJq2aUIWZ3-qO-3u93fpjQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ82Tkk2MVaI4RJmO__gVjwjg",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA-b5x9HDKd8ePlj85G0r8KG-lT2dMrSlByHYeSCLpxB2Zf77wjldiqmDiHn6Y_6USdAEcHCDV9Da3ePBGWhc-F7vVthIgeISNqU--YuE-tQeBtHztS4E27tuuqfnHQThVEhC5JUoZBlQbq-1gxNJVwM3vGhSbKWGOROMazRrAa1A7H5MpCiMtmA",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 39, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.118928199999999,
+               "lng" : -73.10749349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.120277580291502,
+                  "lng" : -73.10600951970849
+               },
+               "southwest" : {
+                  "lat" : 7.117579619708497,
+                  "lng" : -73.1087074802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f4df1667d0a862e8e4640220803a9db619d3cead",
+         "name" : "Parque Los Sarrapios",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105414865928717338655/photos\"\u003eYinni Consuelo Rojas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAGH3DQPvqT2h6sg_BvmhJzeeCSetTjP80fLiSNYgjJUj1PyTyjGxBWWs_bNwBr2Lstff0KMGL9zsFj8Kd-lgY7WbQk9Ygg4UG_GLV7khuecmcsUMeM2Kcnegp-Lx-de3FEhDINfVzNJJCZ4GlbiqaHUzwGhS4bVUAHJqn7fPdIssIfHb1ja1jzw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJuQYruuE_aI4R59kSOntz73A",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAeU2BGQ2OFHWYH0lXwhFveRF0dxrB1sSGBzXmbuWGThTZhNdz_OL3fe3f2_tR25AXdNEFsTcOLhiX-rtLzvOX9MaT-_RqVDpTM68OndzNJrgsvXUlczmNjc-GKAxEvlibEhBjLa1EmKFqMp12U1UkNRNMGhTuFxx_q4qASXKOsiv5iOGL5fFR_Q",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 27a #4939, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.1152077,
+               "lng" : -73.114881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.116314280291502,
+                  "lng" : -73.11354321970849
+               },
+               "southwest" : {
+                  "lat" : 7.113616319708497,
+                  "lng" : -73.1162411802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "0705d5cc55f88f58daaaad207c02d4d75511b61d",
+         "name" : "Parque Turbay",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104420313046009965489/photos\"\u003eJorge Arenas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAAXNfNO_xNGUlmdH39URufMKCZCDmZ2gPVD2puiBMw6QLNx7Sn795WrYR2umq2xan-S5SD2mETlIZH5QufrB27pw7QDnoaL9HWY-qTf118Yo8h_orCyQY0eJhpYqCUmT54EhC4lRul9Q6eZN9vfpDPXWUKGhQAcz_7V6E7RTBplbzODLvBX0KJ6w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJT5ylMdw_aI4RmJcKsrjPEA8",
+         "rating" : 4,
+         "reference" : "CmRRAAAAKcWEQ4KXREPWjaBWlpkqP6LT3RaUW-Yz-_1Pc2t_CDKEQmLAMmASW8L-JCEhcZkLDUafitJmbSC5FC_FttLtxW5G13Gdkng1Ma1P2NJIlzTjkUsh19VW60_pfgqcpTCmEhAEEcQ8-eVY7yoIQmciNOhcGhR2LpNCl0ERGaR5wd-6oS9u4shl9Q",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "casa # 65 Ciudad, Cl 64A, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.097979799999998,
+               "lng" : -73.1265885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.099328780291501,
+                  "lng" : -73.1252395197085
+               },
+               "southwest" : {
+                  "lat" : 7.096630819708496,
+                  "lng" : -73.12793748029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "d6adfff6281bc8c571af584eee28d285ef93619f",
+         "name" : "Parque Ciudad Bolívar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102477354045766402980/photos\"\u003eRamiro Arvey Pinzon Caseres\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAApPVFPlGKj1MoiJjaIZc6dGslXgQpTFIUkJH__b9Oymoeo-LjftKXY4Wh1pZ6mRbIE4t7b5UI5Ass0i54nYTfJIV_bEmXwJTBiyz7Q0ZnQdzskNsDWZQ6wL6sc_0wdJCbEhB5nnrimtbLV-M7-_Z5lVarGhQEkD8MEknOxqWMaHTyT70soYe3NQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJF5QjVrY_aI4RpzQIibPHaMo",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAgZSVL2L75LENYBrX42CusdaJHvbVUIdnmY1_m3CiCTEQxOImo8IcugzzSUAPQyiYNFbDQtsCVSA-PX3Kg6K_o4e_w07jWGZJj-VCe4ST2ZSZCW5fs-gQNGRmRJ6Jf_wCEhBQ88j4XUy1c7QQ48-zlXwSGhR-yGYj8SoeTbhZD8vr-lx7XKX_rw",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Km. 54 Via Bucaramanga - San Gil, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.7912881,
+               "lng" : -73.0033902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.795882600000001,
+                  "lng" : -72.99820149999999
+               },
+               "southwest" : {
+                  "lat" : 6.7877377,
+                  "lng" : -73.00763140000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "198f1f8f30f2fc777a816fe9af0881dfe31a26be",
+         "name" : "Parque Nacional del Chicamocha",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1237,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114264179698391653605/photos\"\u003eParque Nacional del Chicamocha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAA7_d-crEVbXYGbOSBTDZ2qC08rekX3HyMup-EYiWX-M6s2TllmwKOkNMkGyJGrwnsIh0m_4Ds6FpanR7csdfy4rLMsWToZ0nfG_aRk4E9VuBpWGnh2oEJKC42eHeI5d1lEhAEkGWa65PKSBujELPNiKUkGhQTR90XsiIgkmJ_ANHYaV60-MQl7g",
+               "width" : 1237
+            }
+         ],
+         "place_id" : "ChIJFbHzVdo_aI4RNbHJUbqLLew",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAUbfaBwrx9ONBfCoIcwYCiixX2OHns-d_0a55Wdfl1gQD0hL2Iv8FM6ed5HV1VkH-GM3WaEeAJBfM9b3jbWGVZYOWhNI4Ul3mf7NPrXDrCSV_vVTS5XsbfenlHH2AM-32EhDWZyqkMVUEh2FA-zjg6yBgGhRaiWD360F-yywvzGFn3aTgixLjqA",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cl. 64 #64-05, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.104370999999999,
+               "lng" : -73.1140867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.105795830291501,
+                  "lng" : -73.11276456970849
+               },
+               "southwest" : {
+                  "lat" : 7.103097869708496,
+                  "lng" : -73.11546253029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "072fe8b422e6f4af59361c749222dcce54705a92",
+         "name" : "Parque Corona",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103668012935312299077/photos\"\u003eRaul Andres Torres Ballen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAApdIMpsPN_kFIDZAjbNFRh4m8-zkggU45qqQdSGTXn-AkTcbcuNcOhHeyj-JjhBDjk53LUqmeHXUpaj7GgkapsWhRZUUnFnJiNHRB8W2RGo1W_hnAhWSyv_wsXyl32VaeEhD2XoAK5zD2kh3rKcSZncb6GhRNCNLqvzvZwHIVDPfLLTC6tKY5FQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJTyxInME_aI4RFN84f_ggprY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAw2uuekoENCkofwFjcYL8Q9DJ4LNxz6tzIkPgwPiN5il8hPuyqN50DQFhTl1YpE4v-M7aCMYlPBvNeD1OCNY687HBN4b1_MalIhDZHTaSViHbUSF3Xw4hEtWNtBg7td29EhC0-30LbMqkvx3yCnd5-dZvGhTJiPOfRkPAqbuBOz_kls5hS6VFrw",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cra. 32 #63a, Bucaramanga, Santander, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 7.106926499999999,
+               "lng" : -73.11087169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.108275480291502,
+                  "lng" : -73.10952271970848
+               },
+               "southwest" : {
+                  "lat" : 7.105577519708497,
+                  "lng" : -73.1122206802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "130ee2ae39ddf04c5f33c55762625b4706488abf",
+         "name" : "Parque Conucos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107407890265317859603/photos\"\u003eLenny Janeth Sepulveda Alvarez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRYAAAA3WtprzAcUDI22XY5dzrttILsmaBG_it_GX7SXwgFTmg3WmlWd7I46f5M86zWUj1yyHFx0MF1V1BfcO4zo3zeRPcD7UfU_GCQKZ6KnjLUyLJCfwbch4qRuQa9l7RkCAX6EhCUQteEkZHrRWnJqul86mNZGhQjE56rYrUWDRtxbH_loL607bICow",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJ259M2uk_aI4RaIokEca80Mg",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA-T1zIWyuIS9iVi-dvO-vOEC7KDU5dyxGnZB2octvRF1ibjxYOwamoNi0cYPvwkyASjBIGPW110fhWsHPEr873Q2I-3t5u-QtDYcjhqXEmXhQz8AKxbl0VPwkdlw-YhQxEhDJ90w4JCNvd-o0sdGXQwKCGhT25SLgBPGA-cB-ma00Zn_uhGLIyQ",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
